@@ -1,0 +1,2 @@
+# NOKOV motion-capture exports use the .ly extension.
+data/**/*.ly -linguist-detectable
