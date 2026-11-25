@@ -1,0 +1,28 @@
+# Static loading tests of the root connection (Section 4.3).
+# Boom horizontal (q1 = 0 deg, q2 = 90 deg), deployed length L, mass m added at the tip;
+# delta = tip displacement along gravity caused by the mass (loaded minus unloaded).
+mass_g,L_cm,delta_mm
+220,55,10
+220,65,14.5
+220,75,21.46
+220,84,24.91
+220,94,31.02
+220,104,38.11
+220,114,44.95
+220,124,58.36
+320,55,17
+320,65,20
+320,75,30.18
+320,84,36.99
+320,94,45.23
+320,104,56.04
+320,114,66.27
+320,124,81.27
+420,55,18.5
+420,65,25
+420,75,37.41
+420,84,44.07
+420,94,56.85
+420,104,70.23
+420,114,86.81
+420,124,108.61
